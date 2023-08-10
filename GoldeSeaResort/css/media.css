@@ -1,0 +1,295 @@
+@media screen and (max-width: 1600px) {
+    .header {
+        width: 1000px;
+    }
+
+    .petra1span2 {
+        margin-top: 200px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .header {
+        margin-left: 600px;
+        margin-right: 50px;
+    }
+
+    .petra1span {
+        font-size: 50px;
+    }
+
+    .footerdiv2 {
+        margin-left: 60px;
+    }
+
+    .footerspan2 {
+        font-size: 25px;
+    }
+
+    .footerdiv {
+        margin-top: 250px;
+        margin-left: 240px;
+    }
+
+    .contactdiv {
+        width: 80%;
+        margin-left: 80px;
+        margin-top: 100px;
+    }
+
+    .cspan1div {
+        font-size: 20px;
+    }
+    
+    .cspan2div {
+        font-size: 20px;
+    }
+    
+    .cspan3div {
+        font-size: 20px;
+    }
+
+    .bedlogo {
+        margin-left: 10%;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .serimg1 {
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .header {
+        margin-left: 200px;
+        margin-right: 30px;
+    }
+
+    .petra1spandiv {
+        margin-top: 120px;
+    }
+
+    .petra1span2 {
+        font-size: 15px;
+        margin-top: 100px;
+    }
+
+    .s2spandiv {
+        margin-left: 30%;
+    }
+
+    .footerdiv2 {
+        margin-left: 40px;
+    }
+
+    .footerspan2 {
+        font-size: 20px;
+    }
+
+    .footerdiv {
+        margin-left: 250px;
+    }
+
+    .footerspan {
+        font-size: 50px;
+    }
+
+    .contactdiv {
+        width: 90%;
+        margin-left: 60px;
+        margin-top: 80px;
+    }
+
+    .cspan1div {
+        font-size: 20px;
+    }
+    
+    .cspan2div {
+        font-size: 20px;
+    }
+    
+    .cspan3div {
+        font-size: 20px;
+    }
+
+    .bedlogo {
+        margin-left: 0%;
+        width: 100%;
+    }
+
+    .bedlogo3 {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    .serimg1 {
+        width: 400px;
+        height: 400px;
+        margin-top: 100px;
+        margin-left: 5%;
+    }
+
+    .container {
+        padding-left: 0px;
+    }
+
+    .fac2div {
+        margin-left: 20%;
+    }
+
+    .fac3div {
+        margin-left: 30%;
+    }
+
+    .fac4div {
+        margin-left: 23%;
+    }
+
+    .fac4 {
+        font-size: 18px;
+    }
+
+    .fac5div {
+        margin-left: 43%;
+    }
+
+    .fac6div {
+        margin-left: 23%;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .petra1span2 {
+        margin-top: 50px;
+    }
+
+    .s2span {
+        font-size: 40px;
+    }
+
+    .s2spandiv {
+        margin-left: 30%;
+    }
+
+    .footerdiv2 {
+        margin-left: 40px;
+    }
+
+    .footerspan2 {
+        font-size: 15px;
+    }
+
+    .footerdiv {
+        margin-left: 140px;
+    }
+
+    .footerspan {
+        font-size: 50px;
+    }
+
+    .contactdiv {
+        width: 100%;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+
+    .cspan1div {
+        font-size: 15px;
+    }
+    
+    .cspan2div {
+        font-size: 15px;
+    }
+    
+    .cspan3div {
+        font-size: 15px;
+    }
+
+    .apdiv {
+        display: block;
+    }
+
+    .serimg1 {
+        width: 0px;
+    }
+
+    .serimg1 {
+        margin-top: 5%;
+    }
+
+    .line3 {
+        width: 400px;
+    }
+
+    .facdiv {
+        margin-left: 18%;
+    }
+
+    .fac2div {
+        margin-left: 5%;
+    }
+
+    .fac2 {
+        font-size: 17px;
+    }
+
+    .fac3div {
+        margin-left: 20%;
+    }
+
+    .fac4div {
+        margin-left: 15%;
+    }
+
+    .fac4 {
+        font-size: 15px;
+    }
+
+    .fac5div {
+        margin-left: 43%;
+    }
+
+    .fac6div {
+        margin-left: 15%;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .onebed1div {
+        margin-left: 10%;
+    }
+
+    .fac2div {
+        margin-left: 3%;
+    }
+
+    .fac2 {
+        font-size: 16px;
+    }
+
+    .apdiv {
+        margin-left: 20%;
+    }
+
+    .line3 {
+        margin-left: 23%;
+    }
+
+    .serimg2 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .header {
+        margin-left: 100px;
+        margin-right: 50px;
+    }
+
+    .petra1span2 {
+        width: 500px;
+    }
+}

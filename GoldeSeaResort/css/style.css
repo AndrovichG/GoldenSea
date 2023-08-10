@@ -1,0 +1,400 @@
+body {
+    overflow-x: hidden;
+}
+
+.navbar {
+    display: flex;
+    padding: 33px;
+}
+
+.header {
+    display: flex;
+    margin-left: 1000px;
+    justify-content: space-between;
+    width: 40%;
+    margin-right: 100px;
+}
+
+.a1 {
+    color: #000;
+    transition: 0.4s;
+}
+
+.a1:hover {
+    color: darkblue;
+    transition: 0.4s;
+}
+
+.a2 {
+    color: #000;
+    transition: 0.4s;
+}
+
+.a2:hover {
+    color: darkblue;
+    transition: 0.4s;
+}
+
+
+.a3 {
+    color: #000;
+    transition: 0.4s;
+}
+
+.a3:hover {
+    color: darkblue;
+    transition: 0.4s;
+}
+
+
+.a4 {
+    color: #000;
+    transition: 0.4s;
+}
+
+.a4:hover {
+    color: darkblue;
+    transition: 0.4s;
+}
+
+
+.homediv {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.aboutdiv {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.servicesdiv {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.newsdiv {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.watersvg {
+    width: 176px;
+    height: 32px;
+}
+
+.petraimg1 {
+    width: 100%;
+    position: absolute;
+    display: block;
+}
+
+.petra1span {
+    font-size: 90px;
+    color: white;
+    display: block;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.petra1spandiv{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin-top: 180px;
+}
+
+.petra1span2 {
+    margin-top: 350px;
+    font-size: 21px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.s2span {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.s2spandiv {
+    margin-left: 40%;
+    margin-bottom: 8%;
+    width: 100%; 
+    margin-top: 45%;
+}
+
+.FPimg {
+    display: block;
+    max-width: 100%;
+}
+
+
+.womanswim {
+    width: 100%;
+    margin-top: 200px;
+    margin-bottom: -100px;
+    position: absolute;
+}
+
+.spandiv {
+    position: absolute;
+    width: 100%;
+}
+
+.footerdiv {
+    margin-top: 300px;
+    margin-left: 480px;
+    margin-bottom: 80px;
+}
+
+.footerspan {
+    font-size: 90px;
+    text-transform: uppercase;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.footerdiv2 {
+    margin-left: 250px;
+}
+
+.footerspan2 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.contactdiv {
+    width: 90%;
+    margin-left: 80px;
+    margin-top: 130px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.cspan1div {
+    display: flex;
+    font-size: 30px;
+}
+
+.cspan2div {
+    display: flex;
+    font-size: 30px;
+}
+
+.cspan3div {
+    display: flex;
+    font-size: 30px;
+}
+
+.cspan1 {
+    margin-left: 15px;
+}
+
+.cspan2 {
+    margin-left: 15px;
+}
+
+.cspan3 {
+    margin-left: 15px;
+}
+
+.onebed1div {
+    margin-top: 10%;
+    margin-left: 35%;
+    margin-bottom: 3%;
+}
+
+.onebed1 {
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.bedlogo {
+    margin-left: 18%;
+    margin-bottom: 10%;
+}
+
+.option1div {
+    margin-left: 26%;
+    margin-bottom: 2%;
+}
+
+.option1 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.line {
+    background-color: #000;
+    height: 1px;
+    width: 300px;
+    margin-left: 25%;
+}
+
+.bedlogo3 {
+    margin-left: 18%;
+}
+
+.facdiv {
+    margin-left: 35%;
+    margin-top: 8%;
+    margin-bottom: 2%;
+}
+
+.fac {
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fac2div {
+    margin-left: 25%;
+    margin-bottom: 5%;
+}
+
+.fac2 {
+    font-size: 20px;
+}
+
+.tennis {
+    width: 100%;
+    height: 1000px;
+}
+
+.container {
+    margin: auto;
+    width: 1400px;
+    padding-top: 100px;
+    padding-left: 150px;
+}
+
+.serpdiv {
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+.serp {
+    text-transform: uppercase;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.serpdiv2 {
+    margin-left: 9%;
+    font-size: 24px;
+    margin-bottom: 2%;
+}
+
+.line2 {
+    background-color: #000;
+    height: 1px;
+    width: 400px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+.serplongdiv {
+    width: 300px;
+    margin-left: 8%;
+    font-size: 24px;
+    margin-bottom: 5%;
+}
+
+.serimg1 {
+    margin-left: 10%;
+    width: 600px;
+    height: 450px;
+
+}
+
+.flexser {
+    display: flex;
+}
+
+.serimg2 {
+    height: 400px;
+    width: 600px;
+}
+
+.abcdiv {
+    margin-left: 55%;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.line3 {
+    width: 600px;
+    height: 1px;
+    background-color: black;
+    margin-bottom: 5%;
+}
+
+.caruimg {
+    width: 100%;
+    height: 600px;
+}
+
+.lake2 {
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.fac3div {
+    margin-left: 35%;
+    margin-bottom: 2%;
+}
+
+.fac3 {
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fac4div {
+    margin-left: 29%;
+    margin-bottom: 5%;
+}
+
+.fac4 {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fac5div {
+    margin-left: 43%;
+    margin-bottom: 2%;
+}
+
+.fac5 {
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fac6div {
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
+
+.fac6 {
+    font-size: 23px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.lake3 {
+    width: 100%;
+}
